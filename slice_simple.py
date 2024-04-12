@@ -8,4 +8,4 @@ def slice_simple():
 
 
     
-slice_simple()
+
